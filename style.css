@@ -1,0 +1,111 @@
+
+* {
+    /* text-decoration: none; */
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: Arial;
+    background: #0b0f19;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    padding: 60px 20px;
+    background: #171a21;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h4{
+    margin: 10px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.tagline {
+    color: #9ca3af;
+    font-size: 20px;
+}
+
+.section {
+    padding: 30px 20px 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.trailer-frame {
+    border-radius: 4px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
+}
+
+.screenshots {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.screenshots img {
+    width: 320px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+footer {
+    padding: 40px;
+    color: #888;
+}
+
+#rollout-icon{
+    border-radius: 4px;
+}
+
+.flex-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.flex-row{
+    display: flex;
+    gap: 10px
+}
+
+.roll{
+    width: 80%;
+    max-width: 720px;
+    display: flex;
+    margin-top: 20px;
+}
+
+
+#rollout-desc{
+    padding: 0px 10px 10px;
+    text-align: justify;
+    font-size: 0.8em;
+    color: lightgrey;
+}
+
+.rollout-googleplay{
+    background-color: #171a21;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h2 + p{
+    color: lightgray;
+    font-weight: lighter;
+    font-size: 0.7em;
+}
