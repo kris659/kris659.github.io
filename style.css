@@ -115,6 +115,12 @@ footer {
     text-align: justify;
 }
 
+.rollout-list{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+
 h2 + p{
     color: lightgray;
     font-weight: lighter;
@@ -134,12 +140,30 @@ h2 + p{
 }
 
 .payout-desc{
-    width: 720px;
+    width: 600px;
     text-align: justify;
     margin: 20px;
-    margin-bottom: 40px;
+    line-height: 1.25em;
 }
 
 .payout-iframe{
-    margin-top: 20px;
+    margin: 20px;
+}
+
+ul{
+    text-align: left;
+    line-height: 1.75em;
+}
+
+.payout-list-container{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    width: 600px;
+    text-align: left;
+}
+
+.payout-list-container ul{
+    margin-left: 30px;
 }
