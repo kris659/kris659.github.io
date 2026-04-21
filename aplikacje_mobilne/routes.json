@@ -1,0 +1,139 @@
+[
+  {
+    "title": "Wielkopolski Park Narodowy – Szlak im. Adama Wodziczki",
+    "distance_km": 9,
+    "estimated_time": "3 godziny",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Wielkopolski_Park_Narodowy_jezioro.jpg",
+    "description": "Jedna z najbardziej reprezentatywnych tras Wielkopolskiego Parku Narodowego. Szlak prowadzi przez gęste lasy, wzniesienia morenowe oraz wzdłuż jezior polodowcowych. Po drodze można zobaczyć zróżnicowaną roślinność i punkty widokowe. Trasa ma umiarkowany poziom trudności, miejscami pojawiają się podejścia, ale jest dobrze oznakowana i dostępna przez cały rok.",
+    "typ": "piesza"
+  },
+  {
+    "title": "Osowa Góra – Jeziory (ścieżka dydaktyczna)",
+    "distance_km": 6.8,
+    "estimated_time": "2 godziny",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/WPN_Osowa_Gora.jpg",
+    "description": "Łatwa i przyjemna trasa edukacyjna, idealna dla początkujących oraz rodzin z dziećmi. Szlak prowadzi przez malownicze tereny Wielkopolskiego Parku Narodowego, oferując widoki na jeziora, wzgórza morenowe i lasy. Na trasie znajdują się tablice informacyjne opisujące przyrodę i historię regionu. Nawierzchnia jest w większości leśna i dobrze utrzymana.",
+    "typ": "piesza"
+  },
+  {
+    "title": "Puszczykowo – Jezioro Góreckie",
+    "distance_km": 13,
+    "estimated_time": "4 godziny",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Jezioro_Goreckie.jpg",
+    "description": "Dłuższa i bardziej wymagająca trasa dla osób szukających intensywniejszego spaceru. Szlak prowadzi przez różnorodne tereny leśne aż do Jeziora Góreckiego – jednego z najpiękniejszych w regionie. Po drodze można natrafić na punkty widokowe oraz miejsca odpoczynku. Trasa ma charakter trekkingowy, miejscami występują przewyższenia i bardziej wymagające odcinki.",
+    "typ": "piesza"
+  },
+  {
+    "title": "Rezerwat Meteoryt Morasko",
+    "distance_km": 5,
+    "estimated_time": "1.5 godziny",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Rezerwat_Morasko.jpg",
+    "description": "Krótka, ale bardzo interesująca trasa prowadząca przez teren unikatowego rezerwatu przyrody. Największą atrakcją są kratery powstałe w wyniku uderzenia meteorytu oraz specyficzny krajobraz geologiczny. Szlak jest łatwy, dobrze oznaczony i odpowiedni na szybki spacer edukacyjny. W okresach deszczowych niektóre fragmenty mogą być błotniste.",
+    "typ": "piesza"
+  },
+  {
+    "title": "Jezioro Maltańskie – pętla",
+    "distance_km": 6,
+    "estimated_time": "1.5 godziny",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Jezioro_Maltanskie.jpg",
+    "description": "Bardzo popularna i łatwa trasa spacerowa wokół Jeziora Maltańskiego w Poznaniu. W całości utwardzona, idealna na spacer, jogging lub rekreację. Po drodze znajdują się liczne punkty gastronomiczne, ławki oraz atrakcje rekreacyjne. Trasa jest dobrze oświetlona i dostępna przez cały rok.",
+    "typ": "piesza"
+  },
+  {
+    "title": "Wartostrada – duża pętla",
+    "distance_km": 13,
+    "estimated_time": "3.5 godziny",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Warta_Poznan.jpg",
+    "description": "Trasa biegnąca wzdłuż rzeki Warty, łącząca odcinki miejskie z bardziej naturalnymi fragmentami zieleni. Idealna dla osób szukających dłuższego spaceru w stosunkowo płaskim terenie. Nawierzchnia jest zróżnicowana – od asfaltu po ścieżki gruntowe. Po drodze można spotkać liczne miejsca odpoczynku i punkty widokowe na rzekę.",
+    "typ": "piesza"
+  },
+  {
+    "title": "Powidzki Park Krajobrazowy – ścieżki dydaktyczne",
+    "distance_km": 7,
+    "estimated_time": "2 godziny",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Powidzki_Park_Krajobrazowy.jpg",
+    "description": "Spokojne i mniej uczęszczane trasy prowadzące przez teren Powidzkiego Parku Krajobrazowego. Region słynie z bardzo czystych jezior oraz naturalnych krajobrazów. Szlaki są łatwe, prowadzą głównie przez lasy i wzdłuż linii brzegowej jezior. To doskonała propozycja dla osób szukających ciszy i kontaktu z naturą z dala od tłumów.",
+    "typ": "piesza"
+  },
+
+  {
+    "id": 1,
+    "title": "Pierścień Dookoła Poznania",
+    "distance_km": 173,
+    "estimated_time": "2–3 dni",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Zamek_w_K%C3%B3rniku_-_panoramio.jpg/1280px-Zamek_w_K%C3%B3rniku_-_panoramio.jpg",
+    "description": "Najpopularniejszy szlak rowerowy aglomeracji poznańskiej, tworzący pętlę wokół stolicy Wielkopolski. Trasa biegnie mniej więcej wzdłuż granic powiatu poznańskiego, łącząc jego najciekawsze miejsca: Zamek w Kórniku, Pałac w Rogalinie, Rogaliński Park Krajobrazowy, Wielkopolski Park Narodowy, jezioro Kierskie, Puszczę Zielonkę i Park Krajobrazowy Promno. Oznakowana kolorem pomarańczowym. Do głównej pętli prowadzi 7 szlaków łącznikowych z Poznańskiego Węzła Rowerowego."
+    ,
+    "typ": "rowerowa"
+  },
+  {
+    "id": 2,
+    "title": "Nadwarciański Szlak Rowerowy",
+    "distance_km": 372,
+    "estimated_time": "5–7 dni",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rogalin_palace_from_south.JPG/1280px-Rogalin_palace_from_south.JPG",
+    "description": "Jeden z najbardziej przyrodniczych szlaków Wielkopolski, biegnący wzdłuż rzeki Warty. Podzielony na dwa odcinki: wschodni (250 km, Poznań – Jeziorsko) i zachodni (122 km, Poznań – Międzychód). Trasa prowadzi przez Rogaliński Park Krajobrazowy, rezerwat Krajkowo, Żerkowsko-Czeszewski i Nadwarciański Park Krajobrazowy. Na zachodnim odcinku wiedzie lasami i wśród jezior Pojezierza Międzychodzko-Sierakowskiego. Oznakowany kolorem niebieskim."
+    ,
+    "typ": "rowerowa"
+  },
+  {
+    "id": 3,
+    "title": "Transwielkopolska Trasa Rowerowa",
+    "distance_km": 480,
+    "estimated_time": "7–10 dni",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Zamek_w_Go%C5%82uchowie_-_panoramio.jpg/1280px-Zamek_w_Go%C5%82uchowie_-_panoramio.jpg",
+    "description": "Najdłuższy szlak rowerowy Wielkopolski, łączący najdalej wysunięte na północ i południe miejsca województwa. Podzielony na odcinek północny (200 km, Poznań – Okonek) i południowy (280 km, Poznań – Siemianice). Północny prowadzi przez Szamotuły, Czarnków, Trzciankę i Piłę, a południowy przez Środę Wielkopolską, Jarocin, Kalisz, Ostrów Wielkopolski i Kobylą Górę (284 m n.p.m. – najwyższy punkt Wielkopolski). Oznakowana kolorem zielonym."
+    ,
+    "typ": "rowerowa"
+  },
+  {
+    "id": 4,
+    "title": "Szlak 100 Jezior",
+    "distance_km": 111,
+    "estimated_time": "1–2 dni",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sierak%C3%B3w_-_Zamek_Opali%C5%84skich_1.jpg/1280px-Sierak%C3%B3w_-_Zamek_Opali%C5%84skich_1.jpg",
+    "description": "Najstarszy szlak rowerowy Wielkopolski (wytyczony w 1999 r.), prowadzący przez malownicze Pojezierze Międzychodzko-Sierakowskie – Krainę 100 Jezior. Trasa biegnie z Poznania do Międzychodu przez Szamotuły, Ostroróg, Chrzypsko Wielkie i Sieraków. Na trasie liczne jeziora, gotyckie kościoły i Muzeum-Zamek Górków ze słynną Basztą Halszki w Szamotułach. W Międzychodzie łączy się z międzynarodowym szlakiem R-1 (Calais – Sankt Petersburg). Oznakowany kolorem czarnym."
+    ,
+    "typ": "rowerowa"
+  },
+  {
+    "id": 5,
+    "title": "Ziemiański Szlak Rowerowy",
+    "distance_km": 245,
+    "estimated_time": "4–5 dni",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Zamek_w_Rydzynie.jpg/1280px-Zamek_w_Rydzynie.jpg",
+    "description": "Uznawany za najbardziej „wielkopolski\" szlak w regionie – prowadzi przez tereny krajobrazowo najbardziej charakterystyczne dla wielkopolskiej wsi. Tworzy pętlę w południowej Wielkopolsce, łącząc liczne dwory i pałace szlacheckich rodów ziemiańskich. Zaczyna się w Mosinie i rozdziela na dwa warianty: zachodni przez Leszno i Rydzynę oraz wschodni przez Krzywiń i Lubiń. Na trasie: Park Krajobrazowy im. Dezyderego Chłapowskiego, Zamek w Rydzynie, skansen filmowy Soplicowo i Klasztor Filipinów na Świętej Górze. Oznakowany kolorem zielonym."
+    ,
+    "typ": "rowerowa"
+  },
+  {
+    "id": 6,
+    "title": "Piastowski Trakt Rowerowy",
+    "distance_km": 104,
+    "estimated_time": "1–2 dni",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ostr%C3%B3w_Lednicki_-_ruiny_palatium.jpg/1280px-Ostr%C3%B3w_Lednicki_-_ruiny_palatium.jpg",
+    "description": "Rowerowy wariant historycznego Szlaku Piastowskiego – wycieczka przez miejsca, gdzie narodziła się Polska. Trasa prowadzi z Poznańskiego Węzła Rowerowego przez dolinę Cybiny, Jezioro Swarzędzkie, Park Krajobrazowy Promno, Pobiedziska, Ostrów Lednicki (ruiny palatium Mieszka I), Gniezno (katedra z Drzwiami Gnieźnieńskimi i relikwiami św. Wojciecha) do Trzemeszna. Jeden z pierwszych oznakowanych szlaków rowerowych w Wielkopolsce (fragment Poznań–Pobiedziska wytyczony w 1994 r.). Oznakowany kolorem czarnym."
+    ,
+    "typ": "rowerowa"
+  },
+  {
+    "id": 7,
+    "title": "Pierścień Dookoła Konina",
+    "distance_km": 80,
+    "estimated_time": "1 dzień",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Zamek_Gosławice_3.jpg/1280px-Zamek_Gosławice_3.jpg",
+    "description": "Szlak łączący najciekawsze miejsca w okolicach Konina. Po drodze można zobaczyć cenne obiekty zabytkowe w Koninie, Żychlinie, Kawnicach, Bieniszewie, Kazimierzy Biskupim i Starym Licheniu. Trasa prowadzi przez kompleksy leśne Pagórków Złotogórskich i lasów dawnej Puszczy Kazimierskiej, wzdłuż kilku jezior oraz przez cztery rezerwaty przyrody: Mielno, Sokółki, Bieniszew i Pustelnik. Trzy miejsca związane z kultem Maryjnym: Stary Licheń, Bieniszew i Kawnice. W Gosławicach warto odwiedzić zamek z siedzibą Muzeum Okręgowego."
+    ,
+    "typ": "rowerowa"
+  },
+  {
+    "id": 8,
+    "title": "Bursztynowy Szlak Rowerowy",
+    "distance_km": 200,
+    "estimated_time": "3–4 dni",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ratusz_w_Kaliszu.jpg/1280px-Ratusz_w_Kaliszu.jpg",
+    "description": "Najciekawszy szlak rowerowy wschodniej Wielkopolski, nawiązujący do starożytnego traktu handlowego łączącego Bałtyk z Adriatykiem. Trasa wiedzie z Sycowa przez Kobylą Górę (284 m n.p.m.), Ostrzeszów, Mikstat, Ołobok do Kalisza – najstarszego miasta w Polsce. Dalej przez Russów z dworkiem Marii Dąbrowskiej, Stawiszyn, Konin (romański słup drogowy – najstarszy znak drogowy w Polsce), Licheń Stary z sanktuarium maryjnym i rynną jezior ślesińskich do miejscowości Przewóz. Oznakowany kolorem zielonym."
+    ,
+    "typ": "rowerowa"
+  }
+]
